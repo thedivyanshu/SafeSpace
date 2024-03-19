@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://safespace-backend.onrender.com'
